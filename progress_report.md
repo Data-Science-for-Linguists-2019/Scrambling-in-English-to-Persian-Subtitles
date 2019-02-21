@@ -26,4 +26,4 @@ search the TEP. Fingers crossed!
     - M. T. Pilevar, H. Faili, and A. H. Pilevar, _TEP: Tehran English-Persian Parallel Corpus_, in proceedings of 12th International Conference on Intelligent Text Processing and Computational Linguistics_ (CICLing-2011)
     J. Tiedemann, 2012, _Parallel Data, Tools and Interfaces in OPUS_, in Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
 - Parsivar: https://github.com/ICTRC/Parsivar
-- My Python script: ################ INCLUDE ####################
+- My Python script: https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/project_script.ipynb
