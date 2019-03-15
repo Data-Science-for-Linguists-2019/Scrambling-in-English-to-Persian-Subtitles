@@ -1,0 +1,4 @@
+<s id ="86377"> cafNUL oronary --> DEL. New line: <s id="86377">simple. freak show choked to death .</s>
+<s id="86875">looks like one of the three amigos has gone adiNUL  .</s> --> ADD '-ios'. New line: <s id="86875">looks like one of the three amigos has gone adios .</s>
+<s id="167418">a long time ago , i lost the woman i loved . and that was in fact the source of my present misfortune .</s> --> DEL "DLE" New line: <s id="167418">a long time ago , i lost the woman i loved . and that was in fact the source of my present misfortune .</s>
+<s id="186881">a long time ago , i lost the woman i loved . and that was in fact the source of my present misfortune .</s> --> DEL "DLE" New line: <s id="186881">a long time ago , i lost the woman i loved . and that was in fact the source of my present misfortune .</s>
