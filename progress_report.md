@@ -27,3 +27,16 @@ search the TEP. Fingers crossed!
     J. Tiedemann, 2012, _Parallel Data, Tools and Interfaces in OPUS_, in Proceedings of the 8th International Conference on Language Resources and Evaluation (LREC 2012)
 - Parsivar: https://github.com/ICTRC/Parsivar
 - My Python script: https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/project_script.ipynb
+
+
+### 2: Second Progress Report (03/18/19)
+##### Things that I accomplished:
+- Finishing data summary
+- POS-tagged and chunked both English and Farsi data
+##### Things that still need to be done:
+- More analysis
+##### Sharing scheme for data:
+   Maintaining a similar position as to what I stated in the first progress report, I will only be releasing a small portion of my found data. The license for the TEP corpus does not outline much about the publication of its data, but it does indicate that the corpus is free to use and any work incorporating its files must cite a few specific papers (see Relevant Links section above). I will only publish about 50-75 sentences (of over 612,000) to demonstrate my points. Should someone be interested in seeing the entire data, they can modify my code and run the files themselves. 
+   I will be including derived data and some data that I included myself. I will provide the proper documentation once I have finalized the data.
+##### Licensing information:
+   I chose the MIT license for a few reasons. Firstly, my project is intended to be easily adaptable for others to navigate and use, and therefore needs a license that is compatible witht this idealogy. The MIT license allows any person to use my data freely, as long as they provide the proper license and copyright from this file. This project is very much a "starting point" that can be more extrapolated upon by more advanced programmers. Secondly, it appears that the MIT license is a very popular license to use on Github, as the platform itself tends towards quick and easy access of shared code and data. Thirdly, this license is compatible with the licenses of the software and data that I am using; Parsivar uses the MIT license as well, and the TEP only requires one to cite a paper or two. 
