@@ -50,4 +50,19 @@ Resources and Evaluation (LREC 2012)
 - My scripts:
     - [Data Summary](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/data_summary.ipynb)
     - [Tagging and Chunking](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/tagging_chunking.ipynb)
-    - [Data Analysis (Unfinished)](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/data_analysis_new.ipynb)
+    
+### 3: Third Progress Report (04/09/19)
+#### Things that I accomplished:
+- Figuring out a decent enough parser for the English sentences. Not actually necessary anymore (see below), but still finding something that worked took a lot of time!
+- Chunking English sentences. However, I don't think I actually needed to do this, since I was looking for information regarding the scrambling in _Persian_ sentences. That being said, perhaps I can use the trees that I've constructed to help me with my future data anslysis.
+- Generalizing the overall word order for the Persian sentences using regular expressions. As someone who is not well-versed in regular expressions, this was pretty tricky for me. However, I've got something that doesn't confuse SOV for SVO or vice versa. This can definitely be improved on.
+- Preliminary data analysis. Just some number manipulation and general searching for right now. Lots more to do!
+- Included a brief description of Persian as a language. Many people have been requesting it, so I wrote up a little text file describing the language's structure. I'll probably make it a little more robust for the final presentation/project, but the current file should cover all the bases.
+#### Things that still need to be done:
+- Much more data analysis!!! Since I'm presenting on Tuesday, I need to be much farther along with my analysis. I hope to look through my English sentences and see if there are any particular lexical or syntactic structures in English that motivate oddities in Persian. I'll start using words such as "like" and "as", since these are often used in idiomatic expressions. From there, I'm going to have to check through common idioms/phrases that are metaphorical and may have strange Persian equivalents.
+#### Relevant links:
+The newest additions to the page:
+- [Chunking English](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/3_chunking_english.ipynb)
+- [Generalizing Chunks](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/4_generalizing_chunks.ipynb)
+- [Preliminary Data Analysis](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/5_data_analysis.ipynb)
+- [Information on Persian as a Language](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/pers_info)
