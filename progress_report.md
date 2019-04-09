@@ -60,6 +60,7 @@ Resources and Evaluation (LREC 2012)
 - Included a brief description of Persian as a language. Many people have been requesting it, so I wrote up a little text file describing the language's structure. I'll probably make it a little more robust for the final presentation/project, but the current file should cover all the bases.
 #### Things that still need to be done:
 - Much more data analysis!!! Since I'm presenting on Tuesday, I need to be much farther along with my analysis. I hope to look through my English sentences and see if there are any particular lexical or syntactic structures in English that motivate oddities in Persian. I'll start using words such as "like" and "as", since these are often used in idiomatic expressions. From there, I'm going to have to check through common idioms/phrases that are metaphorical and may have strange Persian equivalents.
+- Create a function that searches though the columns for particular words
 #### Relevant links:
 The newest additions to the page:
 - [Chunking English](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/3_chunking_english.ipynb)
