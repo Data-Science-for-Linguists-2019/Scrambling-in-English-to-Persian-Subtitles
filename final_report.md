@@ -15,14 +15,17 @@ I lined the English and the Persian data using pandas and and numpy methods to m
 For the Persian data, I used a POS-tagger and chunker under the free-to-download software [hazm](https://github.com/sobhe/hazm). For English, I used nltk's POS-tagger. Because I was unable to implement pre-installed chunkers for English due to the limitations of my computer, I had to use another computer to chunk the English sentences. I ended up capitalizing on nltk's regular expression parsers to get the English chunks in working conditions.
 
 ##### Generalizing Chunks
-To generalize chunks into either SOV, SVO, or "Other" word orders, I utilized regular expressions, defining what counted as an NP/VP and what didn't in order to build a restrictive but also open generalizer. The top ten word counts are as follows: ![png](images/word_order_count_final.png) 
+To generalize chunks into either SOV, SVO, or "Other" word orders, I utilized regular expressions, defining what counted as an NP/VP and what didn't in order to build a restrictive but also open generalizer. The top ten word counts are as follows: ![png](images/word_order_count_final.png).
 
-The generalized word orders can be seen as follows:
+
+A great deal of the data ended up being classified as "Other" ([see here](https://nbviewer.jupyter.org/github/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/notebooks/4_generalizing_chunks.ipynb#Section-4:-Examining-Other-Data), which was followed by SOV and then SVO. This is not entirely surprising, since the data consists of many one-word sentences for the quick discourse necessary for subtitles; also, the default word order of Persian is SOV. The counts for the generalized word orders can be seen as follows:
 ![png](images/gen_word_order_final.png)
+
 ##### Analyzing the Data
+Unfortuantely, analysis of my data did not provide much support for my hypothesis. Regardless, I will continue to pursue alternative methods after this semester has ended.
 
 ##### Issues, Failed Attempts, and Other Problematic Situations
-### The Conclusions
+I encountered many issues with my project. Firstly, I had encoding issues with my Persian .xml file. Secondly, regular expressions are not yet my friend. They gave me lots of problems, sometimes overmatching, othertimes undermatching. Thirdly, I am not satisfied by how my chunker operated, as it made many mistakes.
 
 
 
