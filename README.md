@@ -21,7 +21,7 @@ Comments on my project from my peers can be found [here](https://github.com/Data
     - [Information on Persian](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/pers_info) provides some basic information about Persian.
     - [Final Report](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/blob/master/final_report.md) sums up the project as a whole.
 - [Images](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/tree/master/images) is where you will find image files found in my notebooks.
-- [Data](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/tree/master/data) contains an example DataFrame constructed from the files, along with a text documents of all the changes that I made to the orignal file.
+- [Data Samples](https://github.com/Data-Science-for-Linguists-2019/Scrambling-in-English-to-Persian-Subtitles/tree/master/data_samples) contains an example DataFrame constructed from the files, along with a text documents of all the changes that I made to the orignal file.
 
 References: 
 M. T. Pilevar, H. Faili, and A. H. Pilevar, “TEP: Tehran English-Persian Parallel Corpus”, in proceedings of 12th International Conference on Intelligent Text Processing and Computational Linguistics (CICLing-2011)
